@@ -53,6 +53,11 @@ The model performs better at identifying non-churners than churners, which is ty
 
 ## 🧠 Explainability (SHAP)
 
+<img width="786" height="771" alt="image" src="https://github.com/user-attachments/assets/696e0487-c047-46db-bd95-9b78a30bcb05" />
+
+<img width="793" height="765" alt="image" src="https://github.com/user-attachments/assets/350e4e55-06f7-4a19-9d33-c737630eb440" />
+
+
 - SHAP output shape: `(1407, 35)`
 - Provides global feature importance
 - Ensures interpretability of predictions
@@ -64,6 +69,10 @@ The model performs better at identifying non-churners than churners, which is ty
 This project does NOT use a fixed 0.5 threshold.
 
 Instead, it evaluates multiple operating points based on business value.
+
+<img width="757" height="486" alt="image" src="https://github.com/user-attachments/assets/e334061d-407c-4649-8ff3-576084a429dc" />
+
+<img width="894" height="465" alt="image" src="https://github.com/user-attachments/assets/3434e2ce-5d3b-49c6-9481-53a55092b638" />
 
 ---
 
@@ -124,6 +133,9 @@ Key observations:
 ---
 
 ## 👥 Customer Segmentation
+
+<img width="913" height="550" alt="image" src="https://github.com/user-attachments/assets/f10eab6f-38bd-45a1-9f13-a437ffab324c" />
+
 
 Customers are grouped into risk segments based on predicted churn probability:
 
