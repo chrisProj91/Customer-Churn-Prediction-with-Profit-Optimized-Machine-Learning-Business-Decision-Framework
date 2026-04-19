@@ -1,0 +1,2 @@
+# Customer-Churn-Prediction-with-Profit-Optimized-Machine-Learning-Business-Decision-Framework
+End-to-end customer churn prediction system using machine learning, feature engineering, and probability calibration. The project goes beyond prediction by optimizing decision thresholds based on business profit, implementing customer segmentation, lift analysis, and explainable AI (SHAP) to support data-driven retention strategies.
